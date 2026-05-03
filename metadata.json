@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Office",
+  "description": "A professional, offline-first productivity suite for Android including document editing, spreadsheets, and presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["offline-storage", "productivity"]
+}
